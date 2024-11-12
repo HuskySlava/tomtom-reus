@@ -1,7 +1,12 @@
 {
+  "author": "Slava Mihaelov",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">22.11.0"
+  },
   "name": "tomtom-reus",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
